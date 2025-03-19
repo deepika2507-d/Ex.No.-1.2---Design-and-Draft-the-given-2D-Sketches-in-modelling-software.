@@ -10,6 +10,7 @@
  4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
  
  ## PROCEDURE
+ 
  1.	Open new file and then select sketch icon.
  2.	Select the plane for sketching. 
  3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
